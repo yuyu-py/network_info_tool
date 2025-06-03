@@ -1,0 +1,2 @@
+# system_info_collector
+Pythonでシステム情報を収集・分析するツール
